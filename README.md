@@ -1,1 +1,1 @@
-# -E-commerce-Data-Analysis-using-PostgreSQl
+# E-commerce-Data-Analysis-using-PostgreSQl
